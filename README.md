@@ -35,5 +35,6 @@ This project helps visualize key metrics such as total sales, quantity, orders, 
 
 ## 📊 Dashboard Preview
 
-![image](https://github.com/user-attachments/assets/771c8ed1-791b-4a2d-8f7d-322f6e2389f8)
+![image](https://github.com/user-attachments/assets/fb91d926-7802-48a2-9315-c80d12ad09d3)
+
 
